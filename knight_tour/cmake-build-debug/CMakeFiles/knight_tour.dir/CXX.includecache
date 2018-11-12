@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/main.cpp
+iostream
+-
+cstdlib
+-
+iomanip
+-
+string
+-
+tour.h
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/tour.h
+
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/mystacklinkedlist.h
+iostream
+-
+
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/priorityArrayQueue.h
+cstdlib
+-
+iostream
+-
+
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/tour.cpp
+
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/tour.h
+iostream
+-
+cstdlib
+-
+string
+-
+iomanip
+-
+ctime
+-
+whereiam.h
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/whereiam.h
+priorityArrayQueue.h
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/priorityArrayQueue.h
+mystacklinkedlist.h
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/mystacklinkedlist.h
+
+/Users/titichotnuntapramote/Dropbox/Classes/CS 8/knight's_tour/Knight in qt/knight_tour/whereiam.h
+iostream
+-
+cstdlib
+-
+
